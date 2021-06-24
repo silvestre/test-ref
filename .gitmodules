@@ -1,3 +1,4 @@
 [submodule "app-autoscaler-release"]
 	path = app-autoscaler-release
 	url = https://github.com/cloudfoundry/app-autoscaler-release.git
+	shallow = true
